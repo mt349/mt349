@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/mt349/mt349/main/mt349.gif" width="500"/>
+<img src="https://raw.githubusercontent.com/mt349/mt349/main/mt349.png" width="500"/>
 
 ---
 
