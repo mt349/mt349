@@ -9,22 +9,18 @@ I'm a 17-year-old coding enthusiast currently studying **ICS (Computer Science)*
 
 💻 **What I'm About**
 - 💖 Passionate about programming and building cool stuff
-- 🌱 Currently learning **Web Development**
-- ✅ Completed: HTML
-- 🚧 Now learning: CSS (and loving it!)
+- 🌱 Currently learning **Java/Python**
 - 🧠 Dreaming big, starting small — one line of code at a time.
 
 ---
 
 ### 🔧 Skills in Progress
-- HTML ✅
-- CSS 🛠️
-- JavaScript (Coming soon...)
+- Python 
+- Java 🛠️
 
 ---
-
 ### 📫 Let’s connect!
-- 📸 [Instagram][
+- 📸 [mt._here][
 ](https://www.instagram.com/direct/inbox/?next=%2F&hl=en&__coig_login=1)-
  💻 [GitHub][
 ](https://github.com/)
