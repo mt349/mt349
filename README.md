@@ -3,8 +3,8 @@
 ---
 # Hi there 👋, I'm Mahnoor!
 
-I'm a passionate coder learning **Java, Python, and Web Development**.  
-I enjoy building beginner-friendly projects, experimenting with new tech, and sharing my coding journey 💻✨  
+I'm a passionate coder exploring **Java, Python, and Web Development**.  
+I love creating beginner-friendly projects, experimenting with AI, and sharing my coding journey 💻✨  
 
 ---
 
@@ -24,9 +24,9 @@ I enjoy building beginner-friendly projects, experimenting with new tech, and sh
     <img src="https://media.giphy.com/media/Lq0h93752f6J9tijrh/giphy.gif" width="150" alt="Java Project" />
     <br>MiniBank (Java)
   </a>
-  <a href="https://github.com/mt349/Portfolio">
-    <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" width="150" alt="Web Project" />
-    <br>Portfolio (HTML+CSS)
+  <a href="https://github.com/mt349/HTML-Login-Page">
+    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150" alt="Login Page" />
+    <br>Login Page (HTML+CSS)
   </a>
   <a href="https://github.com/mt349?tab=repositories&q=&type=&language=Python">
     <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="150" alt="Python Projects" />
@@ -36,10 +36,10 @@ I enjoy building beginner-friendly projects, experimenting with new tech, and sh
 
 ---
 
-## 🔭 Currently Learning
+## 🤖 Coding Theme / AI Vibe
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100" alt="AI Learning" />
-  Exploring **APIs, Cloud Computing, and React** for my next projects!
+  <img src="https://media.giphy.com/media/xUOxfjsW27v5QDx4Xe/giphy.gif" width="300" alt="AI Coding" />
+  <br>Exploring **AI, APIs, and cloud computing** to level up my projects!
 </p>
 
 ---
