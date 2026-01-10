@@ -1,45 +1,46 @@
 <img src="https://raw.githubusercontent.com/mt349/mt349/main/mt349.png" width="500"/>
 
 ---
+# Hi there 👋, I'm Mahnoor!
 
-### Hey there 👋 I'm **Mahnoor** (aka `mt349`)  
-I'm a 17-year-old coding enthusiast currently studying **ICS (Computer Science)** in Grade 11.
-
----
-
-💻 **What I'm About**
-- 💖 Passionate about programming and building cool stuff
-- 🌱 Currently learning **Java/Python**
-- 🧠 Dreaming big, starting small — one line of code at a time.
+I'm a passionate coder learning **Java, Python, and Web Development**.  
+I love building projects, exploring AI, and sharing my coding journey 💻✨
 
 ---
 
-### 🔧 Skills in Progress
-- Python 
-- Java 🛠️
+## 📊 GitHub Stats
+
+![Mahnoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mt349&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mt349&layout=compact&theme=radical)
 
 ---
-### 📫 Let’s connect!
-- 📸 [mt._here][
-](https://www.instagram.com/direct/inbox/?next=%2F&hl=en&__coig_login=1)-
- 💻 [GitHub][
-](https://github.com/)
+
+## 🛠️ Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
 ---
 
-> “Start where you are. Use what you have. Do what you can.” – Arthur Ashe
+## 🚀 Projects
 
+Here are some of my projects:
 
-<!--
-**mt349/mt349** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [MiniBank Project](https://github.com/mt349/MiniBank) – Simple Java banking system  
+- [Portfolio Website](https://github.com/mt349/Portfolio) – My personal website  
+- [Java & Python Repo](https://github.com/mt349) – Beginner-friendly projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/mt349/count.svg)
+
+---
+
+### ⚡ Fun Fact
+*"Coding is like magic, but real!"*
+
