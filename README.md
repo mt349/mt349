@@ -4,43 +4,48 @@
 # Hi there 👋, I'm Mahnoor!
 
 I'm a passionate coder learning **Java, Python, and Web Development**.  
-I love building projects, exploring AI, and sharing my coding journey 💻✨
-
----
-
-## 📊 GitHub Stats
-
-![Mahnoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mt349&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mt349&layout=compact&theme=radical)
+I enjoy building beginner-friendly projects, experimenting with new tech, and sharing my coding journey 💻✨  
 
 ---
 
 ## 🛠️ Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Projects
-
-Here are some of my projects:
-
-- [MiniBank Project](https://github.com/mt349/MiniBank) – Simple Java banking system  
-- [Portfolio Website](https://github.com/mt349/Portfolio) – My personal website  
-- [Java & Python Repo](https://github.com/mt349) – Beginner-friendly projects  
+<p align="center">
+  <a href="https://github.com/mt349/MiniBank">
+    <img src="https://media.giphy.com/media/Lq0h93752f6J9tijrh/giphy.gif" width="150" alt="Java Project" />
+    <br>MiniBank (Java)
+  </a>
+  <a href="https://github.com/mt349/Portfolio">
+    <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" width="150" alt="Web Project" />
+    <br>Portfolio (HTML+CSS)
+  </a>
+  <a href="https://github.com/mt349?tab=repositories&q=&type=&language=Python">
+    <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="150" alt="Python Projects" />
+    <br>Python Projects
+  </a>
+</p>
 
 ---
 
-## 📈 Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/mt349/count.svg)
+## 🔭 Currently Learning
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100" alt="AI Learning" />
+  Exploring **APIs, Cloud Computing, and React** for my next projects!
+</p>
 
 ---
 
-### ⚡ Fun Fact
-*"Coding is like magic, but real!"*
-
+## 💡 Fun Fact
+*"Coding is like magic, but real!"*  
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="150" alt="Fun Coding Gif" />
+</p>
