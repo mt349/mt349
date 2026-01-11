@@ -1,51 +1,88 @@
 <img src="https://raw.githubusercontent.com/mt349/mt349/main/mt349.png" width="500"/>
 
 ---
-# Hi there 👋, I'm Mahnoor!
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="500"/>
+</p>
 
-I'm a passionate coder exploring **Java, Python, and Web Development**.  
-I love creating beginner-friendly projects, experimenting with AI, and sharing my coding journey 💻✨  
+<h1 align="center">Mahnoor | Future Software Engineer 👩‍💻</h1>
+<h3 align="center">💻 Python & Java Developer | Web & AI Explorer</h3>
 
 ---
 
-## 🛠️ Skills
+## 👨‍🎓 About Me
+
+🎓 Student & aspiring **Software Engineer**  
+💻 Strong in **Python & Java**  
+🌐 Built beginner projects using **HTML & CSS** (including a login page)  
+🤖 Interested in **AI, APIs, and Cloud Technologies**  
+📂 All my work lives on **GitHub**  
+🧠 I love solving problems and building real projects  
+
+---
+
+## 🌐 Let’s Connect
+
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <a href="https://github.com/mt349"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🚀 Projects
+## 💻 Tech Stack
+
+### 🧠 Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+### 🌐 Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+</p>
+
+### 🛠 Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
 <p align="center">
   <a href="https://github.com/mt349/MiniBank">
-    <img src="https://media.giphy.com/media/Lq0h93752f6J9tijrh/giphy.gif" width="150" alt="Java Project" />
-    <br>MiniBank (Java)
+    <img src="https://media.giphy.com/media/l46CkATpdyLwLI7vi/giphy.gif" width="200"/><br/>
+    <b>MiniBank – Java</b>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/mt349/HTML-Login-Page">
-    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150" alt="Login Page" />
-    <br>Login Page (HTML+CSS)
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/><br/>
+    <b>Login Page – HTML + CSS</b>
   </a>
-  <a href="https://github.com/mt349?tab=repositories&q=&type=&language=Python">
-    <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="150" alt="Python Projects" />
-    <br>Python Projects
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mt349?tab=repositories">
+    <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"/><br/>
+    <b>Python Projects</b>
   </a>
 </p>
 
 ---
 
-## 🤖 Coding Theme / AI Vibe
+## 🤖 AI & Future Goals
+
 <p align="center">
-  <img src="https://media.giphy.com/media/xUOxfjsW27v5QDx4Xe/giphy.gif" width="300" alt="AI Coding" />
-  <br>Exploring **AI, APIs, and cloud computing** to level up my projects!
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="350"/>
 </p>
+
+🔍 Learning **APIs, Cloud, and AI integration**  
+🚀 Goal: Become a **full-stack AI-powered developer**
 
 ---
 
-## 💡 Fun Fact
-*"Coding is like magic, but real!"*  
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="150" alt="Fun Coding Gif" />
-</p>
+<h3 align="center">⚡ “Building today what the future runs on.”</h3>
