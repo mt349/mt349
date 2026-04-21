@@ -14,6 +14,8 @@
 
 ---
 
+### Tech Stack: HTML | CSS | JavaScript
+
 <div align="center">
 
 ## ◈ WHO AM I ◈
